@@ -1,0 +1,4 @@
+:HL["/_next/static/chunks/233p45nuh4m5b.css","style"]
+:HL["/_next/static/chunks/0i821xm-khfjc.css","style"]
+:HL["/cecyt3-logo.png","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"lQHKdtsAMBtqFKKlNXxRb"}
